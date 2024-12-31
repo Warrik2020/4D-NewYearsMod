@@ -1,11 +1,11 @@
 {
-  id: "tr1ngledev.4dmod-example",
-  name: "4DMod Example",
-  author: "Tr1NgleDev",
-  description: "An example mod",
+  id: "warrick.4D-NewYearsMod",
+  name: "4D-NewYearsMod",
+  author: "Warrick_9875",
+  description: "New years mod :)",
   version: "1.0",
   gameVersion: "0.2.1.4",
-  modDLL: "4DMod.dll",
+  modDLL: "4D-NewYearsMod.dll",
   externalDLLs: [
   ],
   dependencies: {
